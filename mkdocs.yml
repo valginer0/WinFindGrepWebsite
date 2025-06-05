@@ -1,0 +1,50 @@
+site_name: WinFindGrep
+site_url: https://valginer0.github.io/WinFindGrepWebsite/ # Assumes GitHub Pages deployment
+repo_url: https://github.com/valginer0/WinFindGrepWebsite
+repo_name: valginer0/WinFindGrepWebsite
+edit_uri: edit/main/docs/ # 'main' is assumed default branch, adjust if different
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Features: features.md
+  - Download: download.md
+  - Usage: usage.md
+  - Screenshots: screenshots.md
+  - Contributing: contributing.md
+  - License: license.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
