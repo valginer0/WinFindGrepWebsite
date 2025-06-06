@@ -1,14 +1,11 @@
 # License
 
-WinFindGrep is licensed under the [MIT License].
+This project is licensed under the MIT License.
 
-Copy the content of your `LICENSE` file from the main `WinFindGrep` project here, or state the license name and link to it.
+```
+MIT License
 
-
-```text
-## MIT License
-
-Copyright (c) [Year] [Your Name/Organization]
+Copyright (c) 2025 WinFindGrep Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
