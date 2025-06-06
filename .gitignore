@@ -13,3 +13,6 @@ venv.bak/
 
 # MkDocs
 site/
+
+# Windows specific
+*.Zone.Identifier
