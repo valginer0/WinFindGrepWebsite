@@ -17,4 +17,5 @@ This website is your central hub for documentation, download links, and all info
 - [Explore Features](features.md)
 - [Download Now](download.md)
 - [Read the Usage Guide](usage.md)
+- [View Screenshots](screenshots.md)
 - [View Project on GitHub](https://github.com/valginer0/WinFindGrep) <!-- Main application repository -->
