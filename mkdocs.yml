@@ -5,6 +5,11 @@ repo_url: https://github.com/valginer0/WinFindGrepWebsite
 repo_name: valginer0/WinFindGrepWebsite
 edit_uri: edit/main/docs/ # 'main' is assumed default branch, adjust if different
 
+extra:
+  analytics:
+    provider: google
+    property: G-S8KD26DNE7
+
 theme:
   name: material
   features:
