@@ -7,7 +7,6 @@ See WinFindGrep in action with these examples, which correspond to the scenarios
 This screenshot shows WinFindGrep configured to find the function `CalculateTotal` in `*.cs` files, as described in [Usage Example 1](usage.md#example-1-finding-a-specific-function-name-in-code-files).
 
 ![Screenshot of WinFindGrep finding a function name](img/Example1_filled_new.png)
-![Screenshot of WinFindGrep highlighting the new "Modified" column](img/Example1_internal_only.png)
 
 ## Example 2: Searching for an Error Message (Case Insensitive)
 
